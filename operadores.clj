@@ -1,0 +1,8 @@
+(println "Soma:" (+ 1 2))
+(println "Substracao:"(- 2 1))
+(println "Multiplicacao:"(* 4 5))
+(println "Divisao:" (/ 12 2))
+(println "Iguais? 2==3"(= 2 3))
+(println "Iguais? 2==2"(= 2 2))
+(println "Diferentes (negacao)? 2==3"(not= 2 3))
+(println "Diferentes (negacao)? 2==2"(not= 2 2))
